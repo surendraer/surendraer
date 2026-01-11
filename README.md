@@ -54,7 +54,7 @@
 | Project | Stack | Description |
 | :--- | :--- | :--- |
 | **[E-Commerce API](https://github.com/surendraer/Ecom-project)** | `Spring Boot` `H2 Database` `Spring Data JPA` | Robust REST API backend with Layered Architecture (Controller, Service, Repository). Features full product CRUD and in-memory database for instant testing. |
-| **Banking Simulation** <br> _(Uploading Soon)_ | `Java` `OOP` `File I/O` | Robust banking app using Inheritance and Polymorphism with secure transaction processing. |
+| **[Banking Simulation](https://github.com/surendraer/Banking-Simulation)** | `Java` `OOP` `File I/O` | Console-based banking system using Inheritance and Polymorphism with file persistence. |
 
 ---
 
