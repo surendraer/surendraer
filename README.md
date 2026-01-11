@@ -35,8 +35,9 @@
 
 **Databases**
 <br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/H2_Database-003B57?style=for-the-badge&logo=h2&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 **Tools & Environment**
 <br>
@@ -52,7 +53,7 @@
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| **[E-Commerce API](https://github.com/surendraer/Ecom-project)** | `Spring Boot` `MySQL` `Hibernate` | Production-ready RESTful API for inventory management with CRUD operations and H2 database integration. |
+| **[E-Commerce API](https://github.com/surendraer/Ecom-project)** | `Spring Boot` `H2 Database` `Spring Data JPA` | Robust REST API backend with Layered Architecture (Controller, Service, Repository). Features full product CRUD and in-memory database for instant testing. |
 | **Banking Simulation** <br> _(Uploading Soon)_ | `Java` `OOP` `File I/O` | Robust banking app using Inheritance and Polymorphism with secure transaction processing. |
 
 ---
