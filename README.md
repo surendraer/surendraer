@@ -20,24 +20,31 @@
 
 ### 🛠️ Technical Skills
 
-**Backend & Core**
+**Languages**
 <br>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+**Backend & Web Frameworks**
+<br>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+
+**Databases**
+<br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 **Tools & Environment**
 <br>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-
-**Research & Analytics**
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 
 ---
 
@@ -46,7 +53,6 @@
 | Project | Stack | Description |
 | :--- | :--- | :--- |
 | **[E-Commerce API](https://github.com/surendraer/Ecom-project)** | `Spring Boot` `MySQL` `Hibernate` | Production-ready RESTful API for inventory management with CRUD operations and H2 database integration. |
-| **Voice Enabled Map Nav** <br> _(Uploading Soon)_ | `Python` `TensorFlow` `Leaflet.js` | Hands-free navigation system integrating speech recognition (ISRO Hackathon Project). |
 | **Banking Simulation** <br> _(Uploading Soon)_ | `Java` `OOP` `File I/O` | Robust banking app using Inheritance and Polymorphism with secure transaction processing. |
 
 ---
@@ -67,9 +73,3 @@
 * **HPAIR Delegate (2025, 2026):** Selected for the Harvard Project for Asian & International Relations.
 * **NASA Space Apps 2024:** "Galactic Problem Solver" Award Recipient.
 * **Hack With India:** National Finalist (Top 5,000 teams).
-
----
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=surendraer&show_icons=true&theme=minimal" alt="Surendra's Github Stats" />
-</p>
