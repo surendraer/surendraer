@@ -1,76 +1,50 @@
-# Hi, I'm Surendra Singh! 👋
+# Surendra Singh
 
-### ☕ Java Backend Developer | Research Intern
+**Software Developer | Backend Engineering**
 
-* 🎓 **B.Tech CSE Student** at RTU Kota | **CGPA: 9.26** (Top 5%)
-* 🔬 **Research Intern** at Indian Institute of Science (IISc)
-* 🌱 Building scalable **Spring Boot** applications & exploring **Tech Policy**.
-* 💼 **Objective:** Seeking **Java/Backend Internships** to apply my skills.
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/surendra-us">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:surendra.workjp@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+* **Education:** B.Tech in Computer Science & Engineering, Rajasthan Technical University (9.26 CGPA)
+* **Current Role:** Research Intern @ Indian Institute of Science (IISc)
+* **Email:** surendra.workjp@gmail.com
+* **LinkedIn:** [linkedin.com/in/surendra-us](https://www.linkedin.com/in/surendra-us)
 
 ---
 
-### 🛠️ Technical Skills
+## Summary
 
-**Languages**
-<br>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+I am a Software Developer focused on building production-grade REST APIs and scalable backend systems. My core engineering ecosystem is built on Java, Spring Boot, and Node.js. I thrive at the intersection of complex backend architecture and high-stakes problem-solving, with a track record that includes competing as a National Finalist at HackWithIndia and engineering secure, persistent enterprise applications. Currently, I apply my analytical skills as a Research Intern at IISc, investigating digital infrastructure.
 
-**Backend & Web Frameworks**
-<br>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+## Tech Stack
 
-**Databases**
-<br>
-<img src="https://img.shields.io/badge/H2_Database-003B57?style=for-the-badge&logo=h2&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+* **Languages:** Java, JavaScript, C++
+* **Backend & Frameworks:** Spring Boot, Node.js, Express.js, Hibernate, REST APIs
+* **Databases:** MySQL, MongoDB
+* **Tools:** Git, GitHub, Postman, Linux Shell
 
-**Tools & Environment**
-<br>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=surendraer&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=1f6feb&title_color=4facfe&icon_color=1f6feb&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&hide_border=false"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surendraer&layout=compact&theme=github_dark&border_color=1f6feb&title_color=4facfe&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide_border=false"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=surendraer&theme=github-dark-blue&border=1f6feb&ring=4facfe&fire=ff7e5f&currStreakLabel=4facfe&sideLabels=c9d1d9&background=0d1117&stroke=1f6feb&dates=8b949e)](https://github.com/surendraer)
+
+</div>
 
 ---
 
-### 🚀 Featured Projects
 
-| Project | Stack | Description |
-| :--- | :--- | :--- |
-| **[E-Commerce API](https://github.com/surendraer/Ecom-project)** | `Spring Boot` `H2 Database` `Spring Data JPA` | Robust REST API backend with Layered Architecture (Controller, Service, Repository). Features full product CRUD and in-memory database for instant testing. |
-| **[Banking Simulation](https://github.com/surendraer/Banking-Simulation)** | `Java` `OOP` `File I/O` | Console-based banking system using Inheritance and Polymorphism with file persistence. |
 
----
+## 📈 Contribution Graph
 
-### 🔬 Research & Publications
+<div align="center">
 
-* **Optimizing Blockchain Scalability** | *ICTACT Journal on Comm. Tech (Sep 2025)*
-    * Proposed a dynamic framework integrating Sharding and Sidechains.
-* **Empowering Rural India with AI & Blockchain** | *IRJMETS (Oct 2024)*
-    * Investigated supply chain blockchain intersections for rural infrastructure.
-* **Research Intern @ IISc**
-    * Currently conducting comparative analysis of global digital technologies for policy recommendations.
+[![Surendra's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=surendraer&theme=github-compact&bg_color=0d1117&color=4facfe&line=1f6feb&point=4facfe&area=true&hide_border=false)](https://github.com/surendraer)
 
----
+</div>
 
-### 🏆 Achievements
-
-* **HPAIR Delegate (2025, 2026):** Selected for the Harvard Project for Asian & International Relations.
-* **NASA Space Apps 2024:** "Galactic Problem Solver" Award Recipient.
-* **Hack With India:** National Finalist (Top 5,000 teams).
