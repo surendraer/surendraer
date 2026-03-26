@@ -30,12 +30,12 @@ I am a Software Developer focused on building production-grade REST APIs and sca
 
 </div>
 
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=surendraer&theme=github-dark-blue&border=1f6feb&ring=4facfe&fire=ff7e5f&currStreakLabel=4facfe&sideLabels=c9d1d9&background=0d1117&stroke=1f6feb&dates=8b949e)](https://github.com/surendraer)
+<img src="https://streak-stats.demolab.com?user=surendraer&theme=github-dark-blue&border=1f6feb&ring=4facfe&fire=ff7e5f&currStreakLabel=4facfe&sideLabels=c9d1d9&background=0d1117&stroke=1f6feb&dates=8b949e&cache_seconds=1800"/>
 
 </div>
-
 ---
 
 
