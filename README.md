@@ -20,24 +20,6 @@ I am a Software Developer focused on building production-grade REST APIs and sca
 * **Databases:** MySQL, MongoDB
 * **Tools:** Git, GitHub, Postman, Linux Shell
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surendraer&layout=compact&theme=github_dark&border_color=1f6feb&title_color=4facfe&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide_border=false"/>
-
-</div>
-
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=surendraer&theme=github-dark-blue&border=1f6feb&ring=4facfe&fire=ff7e5f&currStreakLabel=4facfe&sideLabels=c9d1d9&background=0d1117&stroke=1f6feb&dates=8b949e&cache_seconds=1800"/>
-
-</div>
----
-
-
 
 ## 📈 Contribution Graph
 
