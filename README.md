@@ -24,8 +24,7 @@ I am a Software Developer focused on building production-grade REST APIs and sca
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=surendraer&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=1f6feb&title_color=4facfe&icon_color=1f6feb&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&hide_border=false"/>
-&nbsp;&nbsp;
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surendraer&layout=compact&theme=github_dark&border_color=1f6feb&title_color=4facfe&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide_border=false"/>
 
 </div>
