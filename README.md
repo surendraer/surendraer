@@ -23,7 +23,7 @@ I am a Software Developer focused on building production-grade REST APIs and sca
 
 <p align="left">
  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surendraer&theme=radical" alt="GitHub Streak" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surendraer&theme=radical" alt="GitHub Streak" width="100%">
 </p>
 
 ## 📈 Contribution Graph
