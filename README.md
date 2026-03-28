@@ -19,7 +19,12 @@ I am a Software Developer focused on building production-grade REST APIs and sca
 * **Backend & Frameworks:** Spring Boot, Node.js, Express.js, Hibernate, REST APIs
 * **Databases:** MySQL, MongoDB
 * **Tools:** Git, GitHub, Postman, Linux Shell
+---
 
+<p align="left">
+ 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surendraer&theme=radical" alt="GitHub Streak" width="49%">
+</p>
 
 ## 📈 Contribution Graph
 
